@@ -17,3 +17,4 @@ xlrd
 pymc
 scikits.bootstrap
 lifelines
+radian
