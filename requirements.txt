@@ -11,3 +11,9 @@ scikit-learn
 graphviz
 ipykernel
 jupyterlab
+rpy2
+patsy
+xlrd
+pymc
+scikits.bootstrap
+lifelines
